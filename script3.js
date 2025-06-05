@@ -49,5 +49,3 @@ listarArreglo(textos, "Arreglo de Textos");
 const arregloVacio = [];
 listarArreglo(arregloVacio, "Arreglo Vacío de Prueba");
 
-
-//explicacion
